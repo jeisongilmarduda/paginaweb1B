@@ -9,3 +9,9 @@ h1 {
 p{
     font-size: 30px;
 }
+ul {
+    display: inline-block;
+    margin-right : 15;
+   imical-aling : top;
+    
+  }
